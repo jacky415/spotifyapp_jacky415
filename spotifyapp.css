@@ -1,0 +1,127 @@
+/**/
+body {
+	background-color: #5b90e5;
+	font-family: Montserrat, Arial, sans-serif;
+	margin: 0;
+}
+
+html {
+	scroll-behavior: smooth;
+}
+
+h3 {
+	color: lightgreen;
+}
+/**/
+
+/**/
+.landingbox {
+	background: no-repeat url('https://images.unsplash.com/photo-1548191423-62ce19e39689?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80');
+	background-color: gray; 
+	height: 1200px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	border: 3px solid #fffdaa;
+	border-bottom-style: none;
+}
+
+.landingboxtext {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 25px;
+	text-shadow: 3px 3px black;
+}
+/**/
+
+/**/
+.execsummary {
+	background: no-repeat url('https://images.unsplash.com/photo-1548177709-b30fbcadff14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+	background-color: gray; 
+	height: 600px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	border: 3px solid #fffdaa;
+}
+
+.execsummarytext {
+	text-align: center;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 25px;
+	text-shadow: 2px 2px black;
+}
+
+.execsummaryl {
+	background: no-repeat url('https://images.unsplash.com/photo-1548177709-b30fbcadff14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+	background-color: gray; 
+	height: 900px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	border: 3px solid #fffdaa;
+}
+
+.execsummaryll {
+	background: no-repeat url('https://images.unsplash.com/photo-1548177709-b30fbcadff14?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');
+	background-color: gray; 
+	height: 1200px;
+	background-position: center;
+	background-size: cover;
+	position: relative;
+	border: 3px solid #fffdaa;
+}
+/**/
+
+/**/
+img {
+	display: inline-block; 
+	height: 400px;
+	width: 600px;	
+}
+
+.left {
+	display: inline-block; 
+	height: 300px;
+	margin: 10px 0;	
+}
+/**/
+
+/**/
+.anchor {
+	margin-left: 10px;
+}
+
+.anchor a {
+	margin: 0 5px;
+}
+
+.footer {
+	width: 90%;
+	margin: 0 5%;
+	background: white;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 2px;
+}
+
+.footer span {
+	float: left;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding: 5px;
+	margin: 10px;
+}
+
+.footer .rightside {
+	float: right;
+}
+/**/
